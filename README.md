@@ -24,3 +24,6 @@ User Authentication: Secure signup and login system for learners and admins
  Admin Dashboard: Admin can add, update, or delete courses and manage users 
  Search & Filter Options: Users can quickly find courses by category or keywords 
  Responsive UI: Works smoothly on mobile, tablet, and desktop devices
+
+Project Demo Video
+https://drive.google.com/file/d/1bjgcW0QFz1POj68hNKjc3siUgWEsP3Lt/view?usp=sharing
